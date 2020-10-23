@@ -1,0 +1,7 @@
+API/bin/Debug/net5.0/appsettings.Development.json
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
